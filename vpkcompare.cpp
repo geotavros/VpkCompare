@@ -3,7 +3,7 @@
 #include <iostream>
 
 #include <QFile>
-#include <qfiledialog>
+#include <QFileDialog>
 #include <QMessageBox>
 #include <QProcess>
 #include <QSettings>
